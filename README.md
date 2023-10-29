@@ -28,6 +28,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/maxim_prosin)
 ![LinkedIN](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximprosin&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximprosin&layout=donut&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 margin-right=5px align="center" src="https://github-readme-stats.vercel.app/api?username=maximprosin&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 margin-left=5px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximprosin&layout=donut&theme=cobalt" />
+</a>
