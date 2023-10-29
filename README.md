@@ -26,4 +26,4 @@
 
 [![VK](https://img.shields.io/badge/VK-000?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/maximprosin)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/maxim_prosin)
-[![LinkedIN](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)]
+![LinkedIN](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)
