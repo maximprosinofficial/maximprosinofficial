@@ -29,5 +29,9 @@
 ![LinkedIN](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)
 
 
+<a href="https://github.com/MaximProsin">
   <img height=200 margin-right=5px align="center" src="https://github-readme-stats.vercel.app/api?username=maximprosin&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/MaximProsin">
   <img height=200 margin-left=5px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximprosin&layout=donut&theme=cobalt" />
+</a>
