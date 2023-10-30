@@ -21,6 +21,11 @@
 ![MySQL](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql)
 ![MongoDb](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
+### Foreign languages
+
+![English](https://img.shields.io/badge/English-000?style=for-the-badge&color=red)
+![French](https://img.shields.io/badge/French-000?style=for-the-badge&color=blue)
+![German](https://img.shields.io/badge/German-000?style=for-the-badge&color=yellow)
 
 ### Follow Me
 
