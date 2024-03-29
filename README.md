@@ -1,4 +1,4 @@
-[![Header](https://github.com/MaximProsin/MaximProsin/blob/main/assets/My.jpg)](https://github.com/MaximProsin)
+[![Header](https://github.com/MaximProsin/MaximProsin/blob/main/assets/My.png)](https://github.com/MaximProsin)
 
 ## Hi, I'm a young C# .NET developer, currently training and planning a great career growth!
 
